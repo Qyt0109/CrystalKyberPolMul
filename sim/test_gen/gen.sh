@@ -1,1 +1,1 @@
-python3 test_generator.py
+python3 ./test_gen/test_generator.py
